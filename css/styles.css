@@ -55,7 +55,7 @@ a {
 
 .header-menu-item {
     font-weight: 153px;
-    line-height: 24px;
+    line-height: 1.15;
     letter-spacing: 2px;
     color: #2E2F42;
 }
@@ -74,7 +74,7 @@ a {
 .hero-title {
     font-weight: 800;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     color: #434455;
     letter-spacing: 2%;
 }
@@ -82,7 +82,7 @@ a {
 .hero-primary-btn {
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 4%;
     color: #fff;
     cursor: pointer;
@@ -109,7 +109,7 @@ a {
 
 .features-item-text {
     font-size: 12px;
-    line-height: 14px;
+    line-height: 1.16;
     letter-spacing: 4%;
 }
 
@@ -139,7 +139,7 @@ a {
 .team-text {
     font-weight: 500;
     font-size: 12px;
-    line-height: 14px;
+    line-height: 1.16;
     letter-spacing: 4%;
 }
 
@@ -169,7 +169,7 @@ a {
 .portfolio-text {
     font-weight: 500;
     font-size: 12px;
-    line-height: 14px;
+    line-height: 1.16;
     letter-spacing: 4%;
 }
 
@@ -181,7 +181,7 @@ a {
 .footer-title {
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.16;
     letter-spacing: 3%;
     color: #F4F4FD;
 }
@@ -189,7 +189,7 @@ a {
 .footer-title-color {
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.16;
     letter-spacing: 3%;
     color: #4D5AE5;
 }
@@ -197,7 +197,7 @@ a {
 .footer-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 2%;
     color: #F4F4FD;
 }
