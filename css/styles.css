@@ -61,6 +61,10 @@ a {
     color: #2e2f42;
 }
 
+.header-menu-link {
+    color: #2e2f42;
+}
+
 .header-menu-link:hover {
     color: #404bbf;
 }
