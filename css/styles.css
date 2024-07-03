@@ -50,7 +50,9 @@ a {
     color: #2E2F42;
 }
 
-.header-menu-list {}
+.header-menu-list {
+    color: #2e2f42;
+}
 
 .header-menu-item {
     font-weight: 500;
@@ -72,7 +74,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .header-list-info {
@@ -92,11 +94,19 @@ a {
 
 }
 
-.header-item-info:hover {
+.header-item-address {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-item-address:hover {
     color: #404bbf;
 }
 
-.header-item-info:focus {
+.header-item-address:focus {
     color: #404bbf;
 }
 
