@@ -68,7 +68,7 @@ a {
     color: #404bbf;
 }
 
-.header-link {
+.header-link-info {
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
@@ -94,6 +94,10 @@ a {
 }
 
 .address-item-info:hover {
+    color: #404bbf;
+}
+
+.address-item-info:focus {
     color: #404bbf;
 }
 
@@ -171,11 +175,11 @@ a {
     color: #2e2f42;
 }
 
-.team-list {
+.team-list {}
+
+.team-item {
     background-color: #FFFFFF
 }
-
-.team-item {}
 
 .team-image {}
 
@@ -259,6 +263,6 @@ a {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
     color: #F4F4FD;
 }
